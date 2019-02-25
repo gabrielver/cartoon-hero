@@ -1,16 +1,24 @@
 body{
-	background-color: lightgrey
+	background-color: lightpink
 }
 h1{
 	color: orange;
 	font-size: 90px;
-	text-decoration: underline;
+	text-decoration-style: solid;
 }
 
 #first{
-	font-size: 150px;
+	font-size: 90px;
+	font-family: verdana;
+	color: black;
+	border: 1px solid powderblue;
 }
+#second{
+	font-size: 60px;
+	color: red;
+	text-decoration: dashed underline overline blue
 
+}
 		.small{
 	font-size: 12px;
 }
